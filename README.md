@@ -8,4 +8,4 @@
 
 延迟控制在500毫秒以内。
 
-1[](https://pic1.zhimg.com/80/v2-7ecfe7bad5a3c173a60604fcf9d17ac4_hd.jpg)
+![](https://pic1.zhimg.com/80/v2-7ecfe7bad5a3c173a60604fcf9d17ac4_hd.jpg)
