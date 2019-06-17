@@ -17,6 +17,8 @@
 
 ├── livecar          //etc.d 脚本 自动启动使用
 
+├── livecar.py       //控制服务端
+
 └── twss.py          //小车接收控制指令客户端
 
 ![](https://pic1.zhimg.com/80/v2-7ecfe7bad5a3c173a60604fcf9d17ac4_hd.jpg)
